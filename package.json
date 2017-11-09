@@ -1,0 +1,26 @@
+{
+  "name": "sublevel-promise",
+  "version": "1.0.0",
+  "description": "level-sublevel wrapped with native promises",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/treygriffith/sublevel-promise.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "level",
+    "sublevel",
+    "promise",
+    "await",
+    "async",
+    "es6"
+  ],
+  "author": "Trey Griffith <trey@tgriff3.com>",
+  "license": "MIT",
+  "dependencies": {
+    "level-sublevel": "^6.6.1"
+  }
+}
