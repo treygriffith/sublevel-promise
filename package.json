@@ -23,9 +23,7 @@
   "dependencies": {
     "level-sublevel": "^6.6.1"
   },
-  "babel": {
-    "presets": [
-      "env"
-    ]
+  "devDependencies": {
+    "babel-core": "^6.26.0"
   }
 }
